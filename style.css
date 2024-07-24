@@ -18,6 +18,7 @@ footer {
 
 .yun-card {
     transition: transform .2s; /* Animation */
+    border-radius: 15px;
 }
 .yun-card:hover {
     transform: scale(1.2);
