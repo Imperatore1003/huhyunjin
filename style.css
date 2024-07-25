@@ -12,10 +12,10 @@ footer {
     background-color: #2f6690;
 }
 
-.yun-card {
+.yunCard, .yunCardBadge {
     transition: transform .2s; /* Animation */
     border-radius: 15px;
 }
-.yun-card:hover {
+.yunCard:hover, div.yunCardBadge:hover {
     transform: scale(1.3);
 }
