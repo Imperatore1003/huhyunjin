@@ -12,7 +12,11 @@ footer {
     background-color: #2f6690;
 }
 
-.yunCard, .yunCardBadge {
+div.yunCardBadge {
+    position: relative;
+}
+
+.yunCard, div.yunCardBadge, .yunCardBadge img {
     transition: transform .2s; /* Animation */
     border-radius: 15px;
     position: relative;
