@@ -12,14 +12,10 @@ footer {
     background-color: #2f6690;
 }
 
-/* #mainCarousel {
-    max-height: 500px;
-} */
-
 .yun-card {
     transition: transform .2s; /* Animation */
     border-radius: 15px;
 }
 .yun-card:hover {
-    transform: scale(1.2);
+    transform: scale(1.3);
 }
