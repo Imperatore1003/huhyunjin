@@ -20,6 +20,7 @@ div.yunCardBadge {
     transition: transform .2s; /* Animation */
     border-radius: 15px;
     position: relative;
+    cursor: pointer;
 }
 .yunCard:hover, div.yunCardBadge:hover {
     transform: scale(1.3);
