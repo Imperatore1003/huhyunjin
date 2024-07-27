@@ -49,3 +49,10 @@ div.yunCardBadge {
 .mainDescTag + a {
     color: #ff858d;
 }
+
+#mainCarousel, #mainCarousel * {
+    max-height: 85vh;
+}
+.carouselImg {
+    object-fit: cover;
+}
