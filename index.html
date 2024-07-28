@@ -21,21 +21,21 @@
 
 <body class="text-center quicksand-regular">
     <main>
-        <!-- Main title -->
-        <div class="p-3 pacifico-regular">
-            <h1>Huh Yunjin</h1>
-            <h2>jen jen</h2>
-        </div>
-
         <!-- Carousel -->
-        <div id="mainCarousel" class="carousel slide w-100 mx-auto" data-bs-ride="carousel">
+        <div id="mainCarousel" class="carousel slide w-100 mx-auto" data-bs-ride="carousel" data-bs-pause="false" data-bs-touch="false">
+            <!-- Main title -->
+            <div class="pacifico-regular position-absolute z-3 w-100 h-100">
+                <div class="position-absolute top-50 start-50 translate-middle">
+                    <h1 id="mainTitle">Huh Yunjin</h1>
+                </div>
+            </div>
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
                 <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
                 <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
             </div>
-            <div class="carousel-inner">
+            <div class="carousel-inner opacity-75">
                 <div class="carousel-item active" data-bs-interval="3000">
                     <img src="img/landscape/yun1.jpg" class="d-block w-100 carouselImg" alt="Huh Yunjin red haired" loading="lazy">
                 </div>
