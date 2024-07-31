@@ -9,6 +9,7 @@ Disallow: /404.html
 Disallow: /.well-known/
 Disallow: /css/
 Disallow: /js/
+Disallow: /img/icons/
 
 Allow: /img/
 Allow: /img/landscape/

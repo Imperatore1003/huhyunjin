@@ -1,0 +1,45 @@
+{
+    "name": "Huh Yunjin",
+    "short_name": "Huh Yunjin",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#e6e7ff",
+    "theme_color": "#e6e7ff",
+    "description": "Huh Yunjin is a member of the South Korean girl group LE SSERAFIM under Source Music.",
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "img/icons/icon48.jpg",
+        "sizes": "48x48",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "img/icons/icon72.jpg",
+        "sizes": "72x72",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "img/icons/icon96.jpg",
+        "sizes": "96x96",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "img/icons/icon144.jpg",
+        "sizes": "144x144",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "img/icons/icon168.jpg",
+        "sizes": "168x168",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "img/icons/icon192.jpg",
+        "sizes": "192x192",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+  
