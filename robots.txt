@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+Allow: /index
+Allow: /index.html
+Disallow: /404
+Disallow: /404.html
+
+Disallow: /.well-known/
+Disallow: /css/
+Disallow: /js/
+
+Allow: /img/
+Allow: /img/landscape/
+Allow: /img/hair/blonde/
+Allow: /img/hair/brunette/
+Allow: /img/hair/ginger/
+Allow: /img/hair/red/
+
+Sitemap: https://huhyunjin.ivanbeltrame.com/sitemap.xml
