@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:security@ivanbeltrame.com
+Expires: 2030-08-01T13:00:00.000Z
+Encryption: https://www.ivanbeltrame.com/IvanBeltrame.asc
+Preferred-Languages: en, it
+Canonical: https://huhyunjin.ivanbeltrame.com/.well-known/security.txt
+Hiring: Hiring: https://www.ivanbeltrame.com/contatti
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRee2tQIDC0Exbdh2p2XNUO0L1wfQUCZqmUlQAKCRB2XNUO0L1w
+fSD8AQCPaHdEFlAD2UpW2VaYqgsysFPP0LDzkC9353PdRLRi+AD/bvH87E9fO16a
+JDwa+7vaPxFULSPaDVIdImCS7yfxjQY=
+=Zecd
+-----END PGP SIGNATURE-----
