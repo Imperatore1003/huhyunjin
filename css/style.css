@@ -57,33 +57,6 @@ div.yunCardBadge {
     object-fit: cover;
 }
 
-@media only screen and (max-width: 440px) {
-    #mainTitle {
-        font-size: 40px;
-    }
-}
-@media only screen and (min-width: 440px) {
-    #mainTitle {
-        font-size: 60px;
-    }
-}
-@media only screen and (min-width: 600px) {
-    #mainTitle {
-        font-size: 80px;
-    }
-}
-@media only screen and (min-width: 840px) {
-    #mainTitle {
-        font-size: 120px;
-    }
-}
-@media only screen and (min-width: 1160px) {
-    #mainTitle {
-        font-size: 180px;
-    }
-}
-@media only screen and (min-width: 1540px) {
-    #mainTitle {
-        font-size: 250px;
-    }
+#mainTitle {
+    font-size: 13vw;
 }
