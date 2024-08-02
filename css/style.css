@@ -43,10 +43,10 @@ div.yunCardBadge {
     max-height: 60vh;
 }
 
-.mainDescTag {
+.mainDescTags p span {
     background-color: #ff858d;
 }
-.mainDescTag + a {
+.mainDescTags p span + a{
     color: #ff858d;
 }
 
